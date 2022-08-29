@@ -1,0 +1,57 @@
+#home {
+  background: url('../img/campus-adgitm.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#call-img {
+  background: url('../img/3.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-color{
+  background-color: #1f365c;
+}
+
+.text-white{
+  color: #fff;
+}
+.text-orange{
+  color: #fa6020;
+}
+
+#footer-logo{
+  width: 100px;
+  height: 100px;
+}
+
+.v-90{
+  height: 90vh;
+}
+
+#navbar{
+  position: sticky;
+  top:0;
+  background-color:#1f365c !important;
+}
+
+.nav-link{
+  color: #fff !important;
+}
+.nav-link:hover{
+  color: #fa6020 !important;
+}
+
+hr{
+  opacity: 1 !important;
+  color: rgb(185, 183, 183) !important;
+}
+
+.map{
+  width: 40vw;
+  height: 40vh;
+  border: 0;
+}
